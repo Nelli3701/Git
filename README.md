@@ -17,3 +17,6 @@ $y = $x - $y; //y = 11 - 6 = 5
 $x = $x - $y; //x = 11 - 5 = 6
 echo "<br>x = $x y = $y";
 ?>
+Show homework2 
+
+Show homework2-2
