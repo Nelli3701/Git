@@ -12,15 +12,11 @@ var_dump((int)0 === (int)'hello, world'); // Почему true? - строгое
     //Задание №5
 $x = 5;
 $y = 6;
-$x = $x + $y; //x = 5 + 6 = 11
-$y = $x - $y; //y = 11 - 6 = 5
-$x = $x - $y; //x = 11 - 5 = 6
-echo "<br>x = $x y = $y";
-?>
+
 Show homework2 
-
 Show homework2-2
-
-Homework2 commit 1
-
 Homework2 commit 1-2
+HW-2-1
+HW
+
+HW2-2
